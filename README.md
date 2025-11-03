@@ -1,6 +1,6 @@
 # Lab 4 — Data Cleaning & Probability (DSARM 1)
 
-This repository is ready for **GitHub Codespaces** and mirrors the Lab 3 layout while substituting the Lab 4 dataset and notebook.  A dev container is included to ensure a reproducible Python environment with useful VS Code extensions and automatic dependency installation.
+This repository is ready for **GitHub Codespaces.**  A dev container is included to ensure a reproducible Python environment with useful VS Code extensions and automatic dependency installation.
 
 ## Contents
 
