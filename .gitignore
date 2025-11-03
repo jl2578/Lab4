@@ -1,0 +1,18 @@
+# Ignore figure outputs
+figures/
+!figures/.gitkeep
+
+# Byte-compiled / compiled files
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code local settings
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
